@@ -1,0 +1,8 @@
+
+.icon-play:before { content: '\a001'; } /* 'ꀁ' */
+.icon-right:before { content: '\a002'; } /* 'ꀂ' */
+.icon-apple:before { content: '\e000'; } /* '' */
+.icon-facebook-squared:before { content: '\e001'; } /* '' */
+.icon-instagram:before { content: '\e002'; } /* '' */
+.icon-email:before { content: '\e003'; } /* '' */
+.icon-star:before { content: '\e800'; } /* '' */
